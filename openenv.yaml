@@ -1,0 +1,6 @@
+name: content-moderation-env
+description: AI environment for moderating user-generated content
+actions:
+  - ALLOW
+  - FLAG
+  - REMOVE
